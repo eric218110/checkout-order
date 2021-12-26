@@ -4,10 +4,9 @@
   "main": "index.js",
   "author": "Eric Silva <ericsilvaccp@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "@commitlint/cli": "^16.0.0"
-  },
   "devDependencies": {
-    "husky": "^7.0.4"
+    "husky": "^7.0.4",
+    "@commitlint/cli": "^16.0.0",
+    "@commitlint/config-conventional": "^16.0.0"
   }
 }
